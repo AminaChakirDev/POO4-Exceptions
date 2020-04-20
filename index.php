@@ -26,7 +26,7 @@ $renault->setEnergyLevel(50);
 
 $renault->setNbWheels(4);
 
-var_dump($renault);
+//var_dump($renault);
 
 
 $volvo = new Car("orange", 4, "essence");
@@ -38,7 +38,7 @@ $a42->addVehicle($renault);
 
 $a42->addVehicle($volvo);
 
-var_dump($a42);
+//var_dump($a42);
 
 $izasbike = new Bike("pink", 2, "manuel");
 $izasbike->setCurrentSpeed(10);
@@ -51,7 +51,7 @@ $haniasbike->setNbWheels(2);
 $pedestr = new PedestrianWay();
 $pedestr->addVehicle($izasbike);
 $pedestr->addVehicle($haniasbike);
-var_dump($pedestr);
+//var_dump($pedestr);
 
 $renaultTruck = new Truck(50, "yellow", 3, "essence");
 
@@ -59,7 +59,23 @@ $residential = new ResidentialWay();
 $residential->addVehicle($renault);
 $residential->addVehicle($izasbike);
 $residential->addVehicle($renaultTruck);
-var_dump($residential);
+//var_dump($residential);
+
+
+
+//POO 4 - GESTION DES EXCEPTIONS
+$renault->setParkBrake(true);
+var_dump($renault);
+
+try{
+    $renault->start();
+} catch (Exception $exception) {
+    $renault->setParkBrake(false);
+} finally {
+    echo "Ma voiture roule comme un Donut";
+}
+
+var_dump($renault);
 
 
 

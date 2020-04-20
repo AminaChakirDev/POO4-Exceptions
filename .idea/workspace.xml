@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddda2cb2-b09f-431c-a8e2-a2b828ad1e95" name="Default Changelist" comment="" />
+    <list default="true" id="ddda2cb2-b09f-431c-a8e2-a2b828ad1e95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +18,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aUStJE1K0Q19fhL1T4bfKWqF3A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,7 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586788892177</updated>
       <workItem from="1586788893529" duration="9819000" />
-      <workItem from="1587196139012" duration="4813000" />
+      <workItem from="1587196139012" duration="5984000" />
+      <workItem from="1587373418372" duration="3347000" />
     </task>
     <servers />
   </component>
@@ -64,9 +75,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587198747106" />
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1587196475164">
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1587373422178">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587196475164" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587373422178" />
   </component>
 </project>
