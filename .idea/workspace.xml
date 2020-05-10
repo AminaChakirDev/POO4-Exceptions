@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddda2cb2-b09f-431c-a8e2-a2b828ad1e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poo3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChargingStation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElectriqueBike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LightableInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RechargeableInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SkateBoard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bike.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,7 +55,11 @@
       <updated>1586788892177</updated>
       <workItem from="1586788893529" duration="9819000" />
       <workItem from="1587196139012" duration="5984000" />
-      <workItem from="1587373418372" duration="3347000" />
+      <workItem from="1587373418372" duration="4054000" />
+      <workItem from="1587473783795" duration="133000" />
+      <workItem from="1587475317074" duration="3432000" />
+      <workItem from="1587554554372" duration="637000" />
+      <workItem from="1589123248319" duration="1147000" />
     </task>
     <servers />
   </component>
@@ -63,10 +71,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587198707221" />
-    <state x="494" y="282" key="NewPhpClassDialog" timestamp="1586790062960">
+    <state x="494" y="282" key="NewPhpClassDialog" timestamp="1589124240208">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="494" y="282" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1586790062960" />
+    <state x="494" y="282" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1589124240208" />
     <state x="541" y="384" key="NewPhpFileDialog" timestamp="1586898499948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -75,9 +83,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587198747106" />
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1587373422178">
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1589123249356">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587373422178" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1589123249356" />
   </component>
 </project>
