@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddda2cb2-b09f-431c-a8e2-a2b828ad1e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ChargingStation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElectriqueBike.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LightableInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RechargeableInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SkateBoard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speedometer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bike.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bike.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
       <workItem from="1587473783795" duration="133000" />
       <workItem from="1587475317074" duration="3432000" />
       <workItem from="1587554554372" duration="637000" />
-      <workItem from="1589123248319" duration="1147000" />
+      <workItem from="1589123248319" duration="2791000" />
     </task>
     <servers />
   </component>
@@ -71,10 +67,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587198707221" />
-    <state x="494" y="282" key="NewPhpClassDialog" timestamp="1589124240208">
+    <state x="494" y="282" key="NewPhpClassDialog" timestamp="1589127903024">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="494" y="282" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1589124240208" />
+    <state x="494" y="282" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1589127903024" />
     <state x="541" y="384" key="NewPhpFileDialog" timestamp="1586898499948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

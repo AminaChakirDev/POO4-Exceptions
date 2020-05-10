@@ -16,6 +16,9 @@ require_once ("Truck.php");
 
 require_once ("ResidentialWay.php");
 
+require_once ("Speedometer.php");
+
+
 
 
 $renault = new Car("black", 4, "diesel");
@@ -76,6 +79,15 @@ try{
 }
 
 var_dump($renault);
+
+
+
+
+echo Speedometer::KmToMiles(10);
+
+echo "<br>";
+
+echo Speedometer::MilesToKm(10);
 
 
 
